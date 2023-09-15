@@ -145,12 +145,13 @@ header{
     font-weight: 900;
 }
 
-.home_left h3{
-    font-size: 46px;
+.multi{
     color: #391f72;
-    margin-bottom: 20px;
-
+    text-transform: capitalize;
+    font-size: 50px;
+    font-weight: 10000;
 }
+
 .name{
     color: #4070f4;
 }
